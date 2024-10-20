@@ -15,7 +15,7 @@ This article provides guidance to implement a successful migration from the lega
 
 ### Why migrate?
 
-Azure Monitor Agent replaces the Log Analytics agent (previously known as Microsoft Monitoring Agent (MMA) and Operations Management Suite (OMS)) in the following components:
+Azure Monitor Agent replaces the Log Analytics agent (previously known as Microsoft Monitoring Agent (MMA) and Operations Management Suite (OMS) in the following components:
 
 - Windows and Linux operating systems
 - On-premises and third-party cloud environments
